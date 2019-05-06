@@ -1,6 +1,6 @@
-# {TD/TP_NAME}
-Nom Prénom
-Nom Prénom
+# BD - Optimisation (TP3)
+DECADERINCOURT Kilian
+GARCIA Tom-Brian
 
 **Version de PostgreSQL : 11**
 
